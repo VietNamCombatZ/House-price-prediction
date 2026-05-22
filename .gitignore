@@ -5,4 +5,7 @@ __pycache__/
 .DS_Store
 venv/
 .env
-data/raw/
+data/raw/raw_data_test.csv
+data/raw/raw_data_train.csv
+data/clean/clean_data_test.csv
+data/clean/clean_data_train.csv
