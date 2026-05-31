@@ -1,6 +1,6 @@
-# House Price Prediction
+# SIGN LANGUAGE TRANSLATION
 
-Dự án dự đoán giá nhà sử dụng Python và Machine Learning.
+Thông dịch thủ ngữ
 
 ## Yêu cầu
 
