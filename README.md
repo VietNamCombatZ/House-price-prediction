@@ -1,6 +1,6 @@
-# House Price Prediction
+# SLT
 
-Dự án dự đoán giá nhà sử dụng Python và Machine Learning.
+Dự án dịch ngôn ngữ ký hiệu theo ngữ nghĩa câu.
 
 ## Yêu cầu
 
